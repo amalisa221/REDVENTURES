@@ -1,6 +1,6 @@
 # REDVENTURES
 ## PROJECT OBJECTIVE
-Understanding the business problem is essential to creating a business dashboard.This tableau project I designed was created to answer some business questions using data collected from RedVentures Company.
+Understanding the business problem is essential to creating a business dashboard.This tableau project I designed was created to answer some business questions using data collected from RedVentures Company. 
 The dashboard was created to answer sample questions for the Red Ventures company. Some business questions included: 
 1.	Is conversion (traffic that places an order) marketing channel or page view dependent
 2.	Is the order monthly charge affected by the marketing channel? Cart vs. phone purchase experience. Page views?
