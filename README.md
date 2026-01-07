@@ -10,5 +10,7 @@ From the Red Ventures data file, my first step was to determine the Key Performa
 I identified these KPIs by first analyzing the data provided by the company. The executive team had specific questions they wanted answered through the dashboard, giving my project a clear objective. Once I understood these objectives and the key questions, I finalized my choice of KPIs.
 From the ‘Conversion rate by traffic source’ chart, it became evident that natural search had the best conversion rate, while direct entry (the marketing channel with the most sessions) converted the least. Additional charts provided insights into the monthly order charges per state, helping the executive team determine which states required more advertising to reach target customers. My dashboard also displayed the distribution number of orders per state while comparing phone order vs. cart oder experience.
 Additionally, my dashboard explored whether conversion rates were more influenced by marketing channels or distinct page views. The distinct page views metric indicated how many unique pages a user visited before making a purchase decision. The conversion rate per marketing channel illustrated the rate at which users completed purchases after visiting the website through each of the various channels. 
-## Dataset used can be found here: < a href="
+## Dataset used can be found here: 
+< a href="https://github.com/amalisa221/REDVENTURES/blob/main/REDVENTURES.xlsx">
+## Dashboard image can be found here:
 < a href="https://github.com/amalisa221/REDVENTURES/blob/main/REDVENTURES%20SC.png"> 
