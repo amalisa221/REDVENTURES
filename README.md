@@ -1,4 +1,5 @@
 # REDVENTURES
+## PROJECT OBJECTIVE
 Understanding the business problem is essential to creating a business dashboard.This tableau project I designed was created to answer some business questions using data collected from RedVentures Company.
 The dashboard was created to answer sample questions for the Red Ventures company. Some business questions included: 
 1.	Is conversion (traffic that places an order) marketing channel or page view dependent
@@ -10,4 +11,4 @@ I identified these KPIs by first analyzing the data provided by the company. The
 From the ‘Conversion rate by marketing channel’ chart, it became evident that natural search had the best conversion rate, while direct entry (the marketing channel with the most sessions) converted the least. Additional charts provided insights into the monthly order charges per state, helping the executive team determine which states required more advertising to reach target customers. My dashboard also displayed the distribution of users across the nation using the zip codes of sessions nationwide, as well as the number of orders per state.
 Additionally, my dashboard explored whether conversion rates were more influenced by marketing channels or distinct page views. The distinct page views metric indicated how many unique pages a user visited before making a purchase decision. The conversion rate per marketing channel illustrated the rate at which users completed purchases after visiting the website through each of the various channels. Purchase totals were also represented in brackets on some charts for clarity.
 
-<img width="468" height="573" alt="image" src="https://github.com/user-attachments/assets/3f73acd2-4684-4339-b291-c6d704c3bb8a" />
+
