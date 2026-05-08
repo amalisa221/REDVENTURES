@@ -13,4 +13,4 @@ Additionally, my dashboard explored whether conversion rates were more influence
 ## Dataset used can be found here: 
 < a href="https://github.com/amalisa221/REDVENTURES/blob/main/REDVENTURES.xlsx">
 ## Dashboard image can be found here:
-< a href="https://github.com/amalisa221/REDVENTURES/blob/main/REDVENTURES%20SC.png"> 
+< a href= "https://github.com/amalisa221/REDVENTURES/blob/main/REDVENTURES%20SC.png">
